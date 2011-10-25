@@ -1,0 +1,30 @@
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\TransportChannel\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\TransportChannel\Server\bin\Debug\Server.exe
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\TransportChannel\Server\bin\Debug\Server.pdb
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\TransportChannel\Server\obj\Debug\Server.exe
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\TransportChannel\Server\obj\Debug\Server.pdb
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\TransportChannelSample\Server\bin\Debug\Server.exe
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\TransportChannelSample\Server\bin\Debug\Server.pdb
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\TransportChannelSample\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\TransportChannelSample\Server\obj\Debug\Server.exe
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\TransportChannelSample\Server\obj\Debug\Server.pdb
+C:\Users\piyushjo\Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\Server.exe.config
+C:\Users\piyushjo\Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\Server.exe
+C:\Users\piyushjo\Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\Server.pdb
+C:\Users\piyushjo\Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\FileTransport.dll
+C:\Users\piyushjo\Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\GZipEncoder.dll
+C:\Users\piyushjo\Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\FileTransport.pdb
+C:\Users\piyushjo\Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\GZipEncoder.pdb
+C:\Users\piyushjo\Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\piyushjo\Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\obj\Debug\Server.exe
+C:\Users\piyushjo\Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\obj\Debug\Server.pdb
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\Server.exe.config
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\Server.exe
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\Server.pdb
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\FileTransport.dll
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\GZipEncoder.dll
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\FileTransport.pdb
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\bin\Debug\GZipEncoder.pdb
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\obj\Debug\Server.exe
+C:\Documents and Settings\Piyush Joshi\My Documents\Visual Studio 2008\Projects\FileTransportChannel\Server\obj\Debug\Server.pdb
